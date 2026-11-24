@@ -1,8 +1,8 @@
 # Hi, I'm Avraham Kuperwasser 👋
 
-**Front-End Developer | React & JavaScript**
+**Software Developer | React & JavaScript**
 
-Front-End Developer with 4+ years of experience building internal systems, portals and components with React and JavaScript, currently at Abra Web & Mobile. I work with REST APIs, SharePoint and Nintex, and use GitHub Copilot agents with custom instruction files in daily development.
+Software Developer with 4+ years of experience building internal systems, portals and components with React and JavaScript, currently at Abra Web & Mobile. I work with REST APIs, Node.js, SharePoint and Nintex, and use GitHub Copilot agents with custom instruction files in daily development.
 
 ## 🛠️ Tech stack
 
