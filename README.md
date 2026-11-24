@@ -2,7 +2,7 @@
 
 **Front-End Developer | React & JavaScript**
 
-Front-End Developer with 4+ years of experience building internal systems, portals and components with React and JavaScript, currently at the Bank of Israel. I work with REST APIs, SharePoint and Nintex, and use GitHub Copilot agents with custom instruction files in daily development.
+Front-End Developer with 4+ years of experience building internal systems, portals and components with React and JavaScript, currently at Abra Web & Mobile. I work with REST APIs, SharePoint and Nintex, and use GitHub Copilot agents with custom instruction files in daily development.
 
 ## 🛠️ Tech stack
 
